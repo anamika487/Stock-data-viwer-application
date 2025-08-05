@@ -121,3 +121,37 @@ canvas_widget.grid(row=6, column=0, columnspan=3, pady=10)
 
 # Run main loop
 root.mainloop()
+
+
+
+
+
+#Here’s a list of popular stock ticker symbols you can use depending on the stock exchange:
+
+'''🇺🇸 U.S. Stock Market (NYSE / NASDAQ)
+Company Name	            Ticker Symbol
+Apple Inc.	                   AAPL
+Microsoft Corp.	               MSFT
+Google (Alphabet)	           GOOGL
+Amazon.com	                   AMZN
+Tesla Inc.	                   TSLA
+Meta (Facebook)	               META
+Netflix	                       NFLX
+NVIDIA	                       NVDA
+Intel Corp.	                   INTC
+Coca-Cola	                   KO
+
+🇮🇳 Indian Stock Market (NSE/BSE) – Use Yahoo suffix .NS for NSE
+Company Name	           Ticker Symbol (for yfinance)
+Reliance Industries	        RELIANCE.NS
+Tata Consultancy	        TCS.NS
+Infosys	                    INFY.NS
+HDFC Bank	                HDFCBANK.NS
+ICICI Bank	                ICICIBANK.NS
+State Bank of India	        SBIN.NS
+Hindustan Unilever	        HINDUNILVR.NS
+Tata Motors	                TATAMOTORS.NS
+Wipro	                    WIPRO.NS
+Larsen & Toubro	            LT.NS
+'''
+
